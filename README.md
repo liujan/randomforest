@@ -16,6 +16,10 @@ id,value0,value1,...,value616
 内容格式为：
 id,label
 
+
+我已经写好了makefile，和运行本程序所需要的命令run.sh，在linux下直接执行run.sh
+./run.sh
+就可以执行本程序了。
 以上数据可在这个网站或得：https://inclass.kaggle.com/c/classification-sysu-2015/data
 
 
