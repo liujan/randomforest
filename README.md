@@ -19,3 +19,4 @@ id,label
 以上数据可在这个网站或得：https://inclass.kaggle.com/c/classification-sysu-2015/data
 
 
+
